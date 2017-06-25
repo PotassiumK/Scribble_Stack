@@ -8,3 +8,5 @@ Draw strategically as once a scribble is scribbled, it cannot be unscribbled!
 <br> <br>
 Made for OJam 2017 <br>
 Theme: "What's done cannot be undone"
+<br> <br>
+Recommended dimensions on run: 1152 x 720
